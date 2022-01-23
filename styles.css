@@ -1,0 +1,54 @@
+body {
+    background-color:rgb(132, 227, 240);
+    color: rgb(196, 0, 196);
+    max-width: 900px;
+    margin: auto
+}
+
+ header {
+    margin-top: 35px;
+    margin-bottom: 0;
+    font-size: 21px
+}
+
+section.first {
+    text-align: center;
+    font-size: 23px;
+    background-color: black;
+    color: pink
+}
+
+p {
+    text-align: center;
+}
+
+
+a {
+    color: brown
+}
+
+h2 {
+    color: rgba(95, 2, 95, 0.822)
+}
+
+aside > h2 {
+    text-align: center;
+}
+
+ ol > li {
+    list-style-position: inside;
+    text-align: center;
+}
+
+article{
+    list-style-position: inside;
+}
+
+article, footer {
+    display:block; 
+    text-align: center
+}
+
+footer{
+    margin: 50px 0
+}
